@@ -1,0 +1,24 @@
+{
+	"layout": {
+		"logo": "React Shadcn",
+		"home": "首页",
+		"images": "图片",
+		"videos": "视频",
+		"account": "我的"
+	},
+	"account": {
+		"title": "账户",
+		"theme": {
+			"title": "颜色模式",
+			"light": "亮色",
+			"dark": "暗色",
+			"system": "跟随系统"
+		},
+		"language": {
+			"title": "语言",
+			"zh": "中文",
+			"en": "English",
+			"browser": "跟随浏览器"
+		}
+	}
+}

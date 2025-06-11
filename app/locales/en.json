@@ -1,0 +1,24 @@
+{
+	"layout": {
+		"logo": "React Shadcn",
+		"home": "Home",
+		"images": "Images",
+		"videos": "Videos",
+		"account": "Account"
+	},
+	"account": {
+		"title": "Account",
+		"theme": {
+			"title": "Theme",
+			"light": "Light",
+			"dark": "Dark",
+			"system": "System"
+		},
+		"language": {
+			"title": "Language",
+			"zh": "中文",
+			"en": "English",
+			"browser": "Browser"
+		}
+	}
+}
